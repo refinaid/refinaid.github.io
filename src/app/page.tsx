@@ -7,8 +7,8 @@ import HomeTitle from "@/src/components/home-animations/home-title";
 import HomeButtons from "@/src/components/home-animations/home-buttons";
 
 export const metadata: Metadata = {
-  title: "LinkScape | Home",
-  description: "We are LinkScape.",
+  title: "Refinaid | Home",
+  description: "We are Refinaid.",
 };
 
 export default function Index() {

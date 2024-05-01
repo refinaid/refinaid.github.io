@@ -10,7 +10,7 @@ const navigation = [
 const social = [
   {
     name: "GitHub",
-    href: "https://github.com/LinkScapeOfficial",
+    href: "https://github.com/refinaid",
   },
   {
     name: "Twitter",
@@ -37,7 +37,7 @@ export default function Footer() {
             className={"w-56"}
           />
           <div className="text-base text-left text-gh-text-secondary  mt-6">
-            © 2022 - 2023 LinkScape. All rights reserved.{" "}
+            © 2024 Refinaid. All rights reserved.{" "}
             <span className="inline">
               Deployed on
               <Link

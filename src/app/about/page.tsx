@@ -4,8 +4,8 @@ import Hero from "@/src/app/about/Hero";
 import LegalDoc from "@/src/app/about/LegalDoc";
 
 export const metadata: Metadata = {
-  title: "LinkScape | About",
-  description: "We are LinkScape.",
+  title: "Refinaid | About",
+  description: "We are Refinaid.",
 };
 
 export default function About() {

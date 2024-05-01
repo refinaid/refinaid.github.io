@@ -104,7 +104,7 @@ export default function HomeTitle() {
           animate="animate"
           className="block text-6xl sm:text-8xl sm:inline-block bg-gradient-to-r from-blue-500 to-purple-700 bg-clip-text text-transparent"
         >
-          LinkScape
+          Refinaid
           <BlinkingCursor />
         </motion.span>
       </motion.h1>

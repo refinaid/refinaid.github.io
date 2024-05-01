@@ -6,22 +6,10 @@ import HomeTeamTitle from "@/src/components/home-animations/home-team-title";
 
 const people = [
   {
-    name: "Thomas Wu",
+    name: "Hugo ChunHo Lin",
     role: "Founder & CEO",
-    imageUrl: "https://cdn.linkscape.app/ThomasWu.png",
-    github: "https://github.com/thomaswcy",
-  },
-  {
-    name: "Jett Chen",
-    role: "Co-Founder & CTO",
-    imageUrl: "https://cdn.linkscape.app/JettChen.png",
-    github: "https://github.com/JettChenT",
-  },
-  {
-    name: "Eason Ji",
-    role: "Co-Founder",
-    imageUrl: "https://files.ohevan.com/img/a3c212565127bde07c193731c3a1e997-421e1.svg",
-    github: "",
+    imageUrl: "https://avatars.githubusercontent.com/u/94162591?v=4",
+    github: "https://github.com/1chooo",
   },
 ];
 
